@@ -1,0 +1,10 @@
+config\WebDriverFactory.class
+pages\mobile\WikipediaArticlePage.class
+config\BaseWebTest.class
+config\AppiumDriverFactory.class
+pages\mobile\WikipediaSearchPage.class
+tests\mobile\WikipediaMobileTests.class
+config\BaseMobileTest.class
+tests\web\WebUiTests.class
+pages\web\HomePage.class
+pages\web\ProductPage.class

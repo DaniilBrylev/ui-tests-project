@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="4" failed="0" skipped="3">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-12T11:57:32 MSK" name="UI Automation Suite" finished-at="2025-12-12T11:57:47 MSK" duration-ms="15117">
+    <groups>
+    </groups>
+    <test started-at="2025-12-12T11:57:32 MSK" name="Web UI Tests" finished-at="2025-12-12T11:57:47 MSK" duration-ms="14849">
+      <class name="tests.web.WebUiTests">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:32 MSK" name="setUpDriver" finished-at="2025-12-12T11:57:33 MSK" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method is-config="true" signature="openHomePage()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:33 MSK" name="openHomePage" finished-at="2025-12-12T11:57:35 MSK" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method signature="shouldLoadHomePage()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:35 MSK" name="shouldLoadHomePage" description="Проверка загрузки главной страницы" finished-at="2025-12-12T11:57:35 MSK" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldLoadHomePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:35 MSK" name="tearDown" finished-at="2025-12-12T11:57:35 MSK" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:35 MSK" name="setUpDriver" finished-at="2025-12-12T11:57:36 MSK" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method is-config="true" signature="openHomePage()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:36 MSK" name="openHomePage" finished-at="2025-12-12T11:57:37 MSK" duration-ms="1470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method signature="shouldOpenCategoryAndShowProducts()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:37 MSK" name="shouldOpenCategoryAndShowProducts" description="Переход в категорию Phones и проверка первого товара" finished-at="2025-12-12T11:57:39 MSK" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldOpenCategoryAndShowProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:39 MSK" name="tearDown" finished-at="2025-12-12T11:57:39 MSK" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:39 MSK" name="setUpDriver" finished-at="2025-12-12T11:57:39 MSK" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method is-config="true" signature="openHomePage()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:39 MSK" name="openHomePage" finished-at="2025-12-12T11:57:41 MSK" duration-ms="1277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method signature="shouldOpenFirstProductAndMatchTitle()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:41 MSK" name="shouldOpenFirstProductAndMatchTitle" description="Открытие первого товара и проверка названия" finished-at="2025-12-12T11:57:43 MSK" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldOpenFirstProductAndMatchTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:43 MSK" name="tearDown" finished-at="2025-12-12T11:57:43 MSK" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:43 MSK" name="setUpDriver" finished-at="2025-12-12T11:57:44 MSK" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method is-config="true" signature="openHomePage()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:44 MSK" name="openHomePage" finished-at="2025-12-12T11:57:45 MSK" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openHomePage -->
+        <test-method signature="shouldSendContactFormAndReceiveAlert()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:45 MSK" name="shouldSendContactFormAndReceiveAlert" description="Проверка отправки формы Contact" finished-at="2025-12-12T11:57:46 MSK" duration-ms="996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldSendContactFormAndReceiveAlert -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.web.WebUiTests@1d2adfbe]" started-at="2025-12-12T11:57:46 MSK" name="tearDown" finished-at="2025-12-12T11:57:47 MSK" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.web.WebUiTests -->
+    </test> <!-- Web UI Tests -->
+    <test started-at="2025-12-12T11:57:47 MSK" name="Mobile UI Tests" finished-at="2025-12-12T11:57:47 MSK" duration-ms="254">
+      <class name="tests.mobile.WikipediaMobileTests">
+        <test-method is-config="true" signature="setUpMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="setUpMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="181" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMobile -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="initPages" finished-at="2025-12-12T11:57:47 MSK" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method signature="shouldFindArticleByKeyword()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="shouldFindArticleByKeyword" description="Search article by keyword and verify first result" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldFindArticleByKeyword -->
+        <test-method is-config="true" signature="tearDownMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="tearDownMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMobile -->
+        <test-method is-config="true" signature="setUpMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="setUpMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="31" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMobile -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="initPages" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method signature="shouldOpenArticleAndVerifyTitle()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="shouldOpenArticleAndVerifyTitle" description="Open article and verify title" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldOpenArticleAndVerifyTitle -->
+        <test-method is-config="true" signature="tearDownMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="tearDownMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMobile -->
+        <test-method is-config="true" signature="setUpMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="setUpMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="26" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMobile -->
+        <test-method signature="shouldScrollArticleAndSeeContent()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="shouldScrollArticleAndSeeContent" description="Scroll article down and verify content is visible" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: Neither ANDROID_HOME nor ANDROID_SDK_ROOT environment variable was exported. Read https://developer.android.com/studio/command-line/variables for more details 
+Host info: host: 'LAPTOP-O7SHFUCB', ip: '10.161.66.174'
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [null, newSession {desiredCapabilities=Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}, capabilities=[{appium:appPackage=org.wikipedia, appium:noReset=true, appium:deviceName=Android Emulator, appium:automationName=UiAutomator2, platformName=ANDROID, appium:appActivity=org.wikipedia.main.MainActivity}]}]
+Capabilities {appium:appActivity: org.wikipedia.main.MainActi..., appium:appPackage: org.wikipedia, appium:automationName: UiAutomator2, appium:deviceName: Android Emulator, appium:noReset: true, platformName: ANDROID}
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:116)
+at io.appium.java_client.remote.AppiumProtocolHandshake.createSession(AppiumProtocolHandshake.java:96)
+at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:176)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:237)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:268)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:90)
+at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:102)
+at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:109)
+at config.AppiumDriverFactory.createAndroidDriver(AppiumDriverFactory.java:27)
+at config.BaseMobileTest.setUpMobile(BaseMobileTest.java:17)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:833)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:600)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldScrollArticleAndSeeContent -->
+        <test-method is-config="true" signature="initPages()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="initPages" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initPages -->
+        <test-method is-config="true" signature="tearDownMobile()[pri:0, instance:tests.mobile.WikipediaMobileTests@385c9627]" started-at="2025-12-12T11:57:47 MSK" name="tearDownMobile" finished-at="2025-12-12T11:57:47 MSK" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMobile -->
+      </class> <!-- tests.mobile.WikipediaMobileTests -->
+    </test> <!-- Mobile UI Tests -->
+  </suite> <!-- UI Automation Suite -->
+</testng-results>
